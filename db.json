@@ -1,10 +1,10 @@
 {
-users:[
+"users":[
 {
-id:0,
-name:"pedro",
-lastname:"casas",
-nickname:"casitas"
+"id":0,
+"name":"pedro",
+"lastname":"casas",
+"nickname":"casitas"
 }
 ]
 }
